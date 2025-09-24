@@ -64,7 +64,7 @@ This repository includes:
 
 ## 📬 Let's Connect
 
-Feel free to explore the dashboard and reach out for feedback or collaboration on [LinkedIn](https://www.linkedin.com/in/gitesh-garg/).
+Feel free to explore the dashboard and reach out for feedback or collaboration on [LinkedIn](https://www.linkedin.com/in/devanshverma03/).
 
 ---
 
